@@ -1,0 +1,705 @@
+{
+    "dataset": [
+      {
+        "id": "MC1",
+        "complexity": "easy",
+        "question": "Your car unexpectedly stops on a highway during a short trip. Which of the following is the most common and simplest explanation?",
+        "options": {
+          "A": "A major engine breakdown",
+          "B": "Running out of fuel",
+          "C": "A flat tire due to debris",
+          "D": "An electronic system malfunction"
+        },
+        "correct_option": "B",
+        "mental_model": "Occam's Razor",
+        "explanation": "Using Occam's Razor, the simplest explanation—running out of fuel—is most likely."
+      },
+      {
+        "id": "MC2",
+        "complexity": "easy",
+        "question": "A small neighborhood shop closes early one day without prior notice. What is the most likely reason behind the closure?",
+        "options": {
+          "A": "Planned inventory restocking",
+          "B": "Unexpected power outage",
+          "C": "A major structural repair",
+          "D": "Employee strike"
+        },
+        "correct_option": "B",
+        "mental_model": "Cost-Benefit Analysis",
+        "explanation": "Cost-Benefit Analysis suggests that a low-cost, common event (a power outage) is the most likely reason."
+      },
+      {
+        "id": "MC3",
+        "complexity": "easy",
+        "question": "After hearing several recent news reports about minor product recalls, which explanation is most likely for a local appliance store’s sudden discount offer?",
+        "options": {
+          "A": "A major design flaw in all products",
+          "B": "A routine clearance sale",
+          "C": "A short-term supply glitch",
+          "D": "An isolated product recall"
+        },
+        "correct_option": "D",
+        "mental_model": "Availability Heuristic",
+        "explanation": "The Availability Heuristic leads people to overestimate the likelihood of events that are top-of-mind (such as recent recall news), making an isolated recall the most plausible trigger."
+      },
+      {
+        "id": "MC4",
+        "complexity": "medium",
+        "question": "When deciding on a new smartphone purchase, a buyer is first shown a high-priced model before seeing more affordable alternatives. Which effect does this initial presentation most likely have?",
+        "options": {
+          "A": "It makes the affordable options appear too cheap",
+          "B": "It sets an anchor that makes moderately priced options seem more reasonable",
+          "C": "It confuses the buyer about the quality differences",
+          "D": "It leads the buyer to ignore the affordable options"
+        },
+        "correct_option": "B",
+        "mental_model": "Anchoring Bias",
+        "explanation": "Anchoring Bias causes initial information (the high-priced model) to serve as a reference point, making other prices appear more attractive."
+      },
+      {
+        "id": "MC5",
+        "complexity": "medium",
+        "question": "A manager receives feedback that supports her existing strategy despite contrary data. Which behavior does this scenario most likely illustrate?",
+        "options": {
+          "A": "Risk aversion",
+          "B": "Confirmation bias",
+          "C": "Sunk cost fallacy",
+          "D": "Opportunity cost"
+        },
+        "correct_option": "B",
+        "mental_model": "Confirmation Bias",
+        "explanation": "This scenario reflects Confirmation Bias, where individuals favor information that confirms their preexisting beliefs."
+      },
+      {
+        "id": "MC6",
+        "complexity": "medium",
+        "question": "During an investment review, an investor opts for a conservative option despite the potential for higher returns. What is the primary reason behind this choice?",
+        "options": {
+          "A": "Risk aversion",
+          "B": "Anchoring on past performance",
+          "C": "Availability heuristic",
+          "D": "Sunk cost fallacy"
+        },
+        "correct_option": "A",
+        "mental_model": "Risk Aversion",
+        "explanation": "Risk aversion is the tendency to prefer lower-risk alternatives even when higher returns are possible."
+      },
+      {
+        "id": "MC7",
+        "complexity": "medium",
+        "question": "When faced with a decision that involves potential gains and losses, a consumer is more upset by a loss than pleased by an equivalent gain. Which theory best explains this behavior?",
+        "options": {
+          "A": "Prospect Theory",
+          "B": "Opportunity Cost",
+          "C": "Second-Order Thinking",
+          "D": "Pareto Principle"
+        },
+        "correct_option": "A",
+        "mental_model": "Prospect Theory",
+        "explanation": "Prospect Theory explains that losses have a greater emotional impact than gains of the same size."
+      },
+      {
+        "id": "MC8",
+        "complexity": "medium",
+        "question": "A project manager continues to invest in a failing project due to the significant resources already committed. What cognitive error is most likely occurring?",
+        "options": {
+          "A": "Sunk cost fallacy",
+          "B": "Anchoring bias",
+          "C": "Availability heuristic",
+          "D": "Risk aversion"
+        },
+        "correct_option": "A",
+        "mental_model": "Sunk Cost Fallacy",
+        "explanation": "The Sunk Cost Fallacy is when past investments unduly influence continued commitment, even when it is not justified."
+      },
+      {
+        "id": "MC9",
+        "complexity": "medium",
+        "question": "In managing his time, a student finds that 80% of his results come from 20% of his study activities. Which principle does this scenario best illustrate?",
+        "options": {
+          "A": "Inversion",
+          "B": "Pareto Principle",
+          "C": "Opportunity Cost",
+          "D": "Second-Order Thinking"
+        },
+        "correct_option": "B",
+        "mental_model": "Pareto Principle",
+        "explanation": "The Pareto Principle states that a small proportion of causes (20% of efforts) often lead to the majority (80% of outcomes)."
+      },
+      {
+        "id": "MC10",
+        "complexity": "medium",
+        "question": "A business leader evaluates a decision by considering what would happen if the opposite choice were made. What reasoning strategy is this?",
+        "options": {
+          "A": "Anchoring bias",
+          "B": "Inversion",
+          "C": "Availability heuristic",
+          "D": "Confirmation bias"
+        },
+        "correct_option": "B",
+        "mental_model": "Inversion",
+        "explanation": "Inversion involves considering the opposite of the current approach to test its validity."
+      },
+      {
+        "id": "MC11",
+        "complexity": "medium",
+        "question": "When choosing between two job offers, a candidate compares the benefits of the offer she did not choose. What concept is at work here?",
+        "options": {
+          "A": "Opportunity cost",
+          "B": "Prospect theory",
+          "C": "Sunk cost fallacy",
+          "D": "Cost-benefit analysis"
+        },
+        "correct_option": "A",
+        "mental_model": "Opportunity Cost",
+        "explanation": "Opportunity cost refers to the benefit lost by not choosing the next best alternative."
+      },
+      {
+        "id": "MC12",
+        "complexity": "hard",
+        "question": "A strategic planner not only considers the immediate outcomes of a decision but also the subsequent effects on the entire system over time. Which approach is best described by this scenario?",
+        "options": {
+          "A": "Second-Order Thinking",
+          "B": "Anchoring bias",
+          "C": "Confirmation bias",
+          "D": "Availability heuristic"
+        },
+        "correct_option": "A",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "Second-Order Thinking involves looking beyond immediate effects to consider long-term consequences."
+      },
+      {
+        "id": "MC13",
+        "complexity": "easy",
+        "question": "A commuter hears that a bridge is closed and quickly opts for an alternate route. Which explanation is most straightforward?",
+        "options": {
+          "A": "The bridge has a structural issue",
+          "B": "There was an accident on the bridge",
+          "C": "The closure was due to routine maintenance",
+          "D": "Traffic congestion made the bridge impractical"
+        },
+        "correct_option": "C",
+        "mental_model": "Occam's Razor",
+        "explanation": "Occam's Razor suggests the simplest explanation—routine maintenance—is most likely."
+      },
+      {
+        "id": "MC14",
+        "complexity": "easy",
+        "question": "A café offers a discount on a rainy day. Which explanation is most likely based on low-cost benefits?",
+        "options": {
+          "A": "To attract more customers during slow periods",
+          "B": "Due to a sudden ingredient shortage",
+          "C": "Because of a surprise visit by a celebrity",
+          "D": "An emergency maintenance issue"
+        },
+        "correct_option": "A",
+        "mental_model": "Cost-Benefit Analysis",
+        "explanation": "Cost-Benefit Analysis indicates that offering discounts to boost sales during slow periods is a low-cost, effective strategy."
+      },
+      {
+        "id": "MC15",
+        "complexity": "easy",
+        "question": "After watching a popular movie trailer repeatedly, a person overestimates the frequency of similar blockbusters. Which cognitive shortcut is illustrated here?",
+        "options": {
+          "A": "Anchoring bias",
+          "B": "Availability heuristic",
+          "C": "Confirmation bias",
+          "D": "Risk aversion"
+        },
+        "correct_option": "B",
+        "mental_model": "Availability Heuristic",
+        "explanation": "The Availability Heuristic causes people to judge likelihood based on how easily examples come to mind."
+      },
+      {
+        "id": "MC16",
+        "complexity": "easy",
+        "question": "A shopper sees an initially high-listed price for a jacket and then notices a lower price on a similar jacket. What effect does the first price have?",
+        "options": {
+          "A": "It makes the lower price seem more attractive",
+          "B": "It confuses the shopper about quality",
+          "C": "It causes the shopper to ignore the lower price",
+          "D": "It suggests both are overpriced"
+        },
+        "correct_option": "A",
+        "mental_model": "Anchoring Bias",
+        "explanation": "Anchoring Bias leads the initial high price to serve as a reference point, making subsequent lower prices seem better."
+      },
+      {
+        "id": "MC17",
+        "complexity": "medium",
+        "question": "An employee disregards a colleague’s constructive criticism because it challenges his current project approach. What bias does this behavior illustrate?",
+        "options": {
+          "A": "Confirmation bias",
+          "B": "Anchoring bias",
+          "C": "Risk aversion",
+          "D": "Inversion"
+        },
+        "correct_option": "A",
+        "mental_model": "Confirmation Bias",
+        "explanation": "Confirmation Bias is evident when individuals ignore information that contradicts their existing beliefs."
+      },
+      {
+        "id": "MC18",
+        "complexity": "medium",
+        "question": "An investor consistently chooses bonds over stocks, even when stocks offer potentially higher returns. Which tendency best explains this behavior?",
+        "options": {
+          "A": "Risk aversion",
+          "B": "Sunk cost fallacy",
+          "C": "Opportunity cost",
+          "D": "Availability heuristic"
+        },
+        "correct_option": "A",
+        "mental_model": "Risk Aversion",
+        "explanation": "Risk aversion leads investors to choose safer, lower-return options over riskier, higher-return investments."
+      },
+      {
+        "id": "MC19",
+        "complexity": "medium",
+        "question": "A business owner evaluates two proposals by comparing the potential benefits and losses of each. Which theory is she applying?",
+        "options": {
+          "A": "Prospect Theory",
+          "B": "Sunk cost fallacy",
+          "C": "Opportunity cost",
+          "D": "Inversion"
+        },
+        "correct_option": "A",
+        "mental_model": "Prospect Theory",
+        "explanation": "Prospect Theory involves assessing decisions based on potential gains versus losses."
+      },
+      {
+        "id": "MC20",
+        "complexity": "medium",
+        "question": "A company continues to invest in outdated software due to previous investments, despite newer alternatives being available. What is the most likely explanation?",
+        "options": {
+          "A": "Risk aversion",
+          "B": "Sunk cost fallacy",
+          "C": "Opportunity cost",
+          "D": "Second-Order Thinking"
+        },
+        "correct_option": "B",
+        "mental_model": "Sunk Cost Fallacy",
+        "explanation": "The Sunk Cost Fallacy drives decision-makers to continue an endeavor based on past investments rather than current benefits."
+      },
+      {
+        "id": "MC21",
+        "complexity": "medium",
+        "question": "A student finds that 20% of his study methods are yielding 80% of his grades improvement. What principle does this illustrate?",
+        "options": {
+          "A": "Pareto Principle",
+          "B": "Inversion",
+          "C": "Risk aversion",
+          "D": "Confirmation bias"
+        },
+        "correct_option": "A",
+        "mental_model": "Pareto Principle",
+        "explanation": "The Pareto Principle states that a small portion of causes (20% of efforts) often lead to a large portion of outcomes (80% of results)."
+      },
+      {
+        "id": "MC22",
+        "complexity": "medium",
+        "question": "A project leader considers what would happen if his team did the exact opposite of their current strategy. This method of evaluation is known as:",
+        "options": {
+          "A": "Opportunity cost",
+          "B": "Inversion",
+          "C": "Anchoring bias",
+          "D": "Cost-benefit analysis"
+        },
+        "correct_option": "B",
+        "mental_model": "Inversion",
+        "explanation": "Inversion involves considering the opposite scenario to gain insight into the best course of action."
+      },
+      {
+        "id": "MC23",
+        "complexity": "medium",
+        "question": "While choosing between two internship offers, a student considers what she would lose by not accepting the alternative. Which concept is this?",
+        "options": {
+          "A": "Sunk cost fallacy",
+          "B": "Opportunity cost",
+          "C": "Risk aversion",
+          "D": "Availability heuristic"
+        },
+        "correct_option": "B",
+        "mental_model": "Opportunity Cost",
+        "explanation": "Opportunity cost is the value of the next best alternative forgone when a decision is made."
+      },
+      {
+        "id": "MC24",
+        "complexity": "hard",
+        "question": "A CEO evaluates not just the immediate impact of a merger but also the ripple effects on market positioning and future innovation. What approach is she employing?",
+        "options": {
+          "A": "Second-Order Thinking",
+          "B": "Confirmation bias",
+          "C": "Anchoring bias",
+          "D": "Pareto Principle"
+        },
+        "correct_option": "A",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "Second-Order Thinking requires evaluating both immediate and long-term consequences of a decision."
+      },
+      {
+        "id": "MC25",
+        "complexity": "easy",
+        "question": "A commuter sees a road closure sign and immediately chooses an alternative route. What is the simplest explanation?",
+        "options": {
+          "A": "The main road is congested",
+          "B": "The road is closed due to construction",
+          "C": "A traffic accident occurred",
+          "D": "There is a detour for maintenance"
+        },
+        "correct_option": "B",
+        "mental_model": "Occam's Razor",
+        "explanation": "Occam's Razor suggests that the simplest explanation—routine construction—is most likely."
+      },
+      {
+        "id": "MC26",
+        "complexity": "easy",
+        "question": "A local restaurant offers a discount during a slow weekday evening. What is the most cost-effective reason for this?",
+        "options": {
+          "A": "To clear out old inventory",
+          "B": "To attract more customers during off-peak times",
+          "C": "To compensate for a temporary staff shortage",
+          "D": "Due to unexpected equipment failure"
+        },
+        "correct_option": "B",
+        "mental_model": "Cost-Benefit Analysis",
+        "explanation": "Cost-Benefit Analysis suggests that offering discounts to boost customer traffic during slow periods is a low-cost, effective strategy."
+      },
+      {
+        "id": "MC27",
+        "complexity": "easy",
+        "question": "After watching several viral videos about a rare gadget malfunction, a consumer believes such failures are very common. What cognitive effect is at work?",
+        "options": {
+          "A": "Anchoring bias",
+          "B": "Availability heuristic",
+          "C": "Confirmation bias",
+          "D": "Risk aversion"
+        },
+        "correct_option": "B",
+        "mental_model": "Availability Heuristic",
+        "explanation": "The Availability Heuristic leads people to overestimate the frequency of events that are memorable or recently seen."
+      },
+      {
+        "id": "MC28",
+        "complexity": "easy",
+        "question": "A shopper compares a discounted price to a higher reference price shown earlier. What influence does the initial high price have?",
+        "options": {
+          "A": "It makes the discount seem less appealing",
+          "B": "It serves as an anchor, making the discount seem more significant",
+          "C": "It causes confusion over product quality",
+          "D": "It has no effect on the perception of the discount"
+        },
+        "correct_option": "B",
+        "mental_model": "Anchoring Bias",
+        "explanation": "Anchoring Bias causes the initial high price to serve as a reference point, making the discount appear more attractive."
+      },
+      {
+        "id": "MC29",
+        "complexity": "medium",
+        "question": "A researcher dismisses new evidence that contradicts her long-held theory. Which bias does this illustrate?",
+        "options": {
+          "A": "Confirmation bias",
+          "B": "Risk aversion",
+          "C": "Opportunity cost",
+          "D": "Sunk cost fallacy"
+        },
+        "correct_option": "A",
+        "mental_model": "Confirmation Bias",
+        "explanation": "Confirmation Bias leads individuals to disregard information that challenges their existing beliefs."
+      },
+      {
+        "id": "MC30",
+        "complexity": "medium",
+        "question": "An investor chooses a safe government bond over a volatile stock, even if the stock offers higher potential returns. What behavior is this?",
+        "options": {
+          "A": "Risk aversion",
+          "B": "Anchoring bias",
+          "C": "Opportunity cost",
+          "D": "Inversion"
+        },
+        "correct_option": "A",
+        "mental_model": "Risk Aversion",
+        "explanation": "Risk aversion is the tendency to choose safer investments even when higher returns might be possible."
+      },
+      {
+        "id": "MC31",
+        "complexity": "medium",
+        "question": "A startup evaluates its new product by considering both the potential gains and the potential losses. This evaluation reflects which theory?",
+        "options": {
+          "A": "Prospect Theory",
+          "B": "Cost-benefit analysis",
+          "C": "Inversion",
+          "D": "Sunk cost fallacy"
+        },
+        "correct_option": "A",
+        "mental_model": "Prospect Theory",
+        "explanation": "Prospect Theory evaluates decisions based on the potential gains versus the potential losses."
+      },
+      {
+        "id": "MC32",
+        "complexity": "medium",
+        "question": "A company continues funding an underperforming marketing campaign because a lot of money has already been spent on it. Which error is illustrated here?",
+        "options": {
+          "A": "Sunk cost fallacy",
+          "B": "Anchoring bias",
+          "C": "Opportunity cost",
+          "D": "Second-Order Thinking"
+        },
+        "correct_option": "A",
+        "mental_model": "Sunk Cost Fallacy",
+        "explanation": "The Sunk Cost Fallacy leads to continuing investments based on past expenditures rather than future benefits."
+      },
+      {
+        "id": "MC33",
+        "complexity": "medium",
+        "question": "A manager notices that a small percentage of tasks contribute to most of the team’s productivity. Which principle best describes this phenomenon?",
+        "options": {
+          "A": "Pareto Principle",
+          "B": "Confirmation bias",
+          "C": "Availability heuristic",
+          "D": "Risk aversion"
+        },
+        "correct_option": "A",
+        "mental_model": "Pareto Principle",
+        "explanation": "The Pareto Principle states that roughly 20% of causes often lead to 80% of effects."
+      },
+      {
+        "id": "MC34",
+        "complexity": "medium",
+        "question": "In a decision-making meeting, a leader considers what might happen if they took the opposite approach to their current plan. What strategy is this?",
+        "options": {
+          "A": "Anchoring bias",
+          "B": "Inversion",
+          "C": "Opportunity cost",
+          "D": "Risk aversion"
+        },
+        "correct_option": "B",
+        "mental_model": "Inversion",
+        "explanation": "Inversion involves contemplating the opposite scenario to evaluate the current plan."
+      },
+      {
+        "id": "MC35",
+        "complexity": "hard",
+        "question": "A student weighs two internship offers by not only comparing salaries but also considering what she would miss out on by rejecting the other offer. Which concept is she applying?",
+        "options": {
+          "A": "Opportunity cost",
+          "B": "Sunk cost fallacy",
+          "C": "Prospect theory",
+          "D": "Cost-benefit analysis"
+        },
+        "correct_option": "A",
+        "mental_model": "Opportunity Cost",
+        "explanation": "Opportunity cost is the benefit lost when one alternative is chosen over another."
+      },
+      {
+        "id": "MC36",
+        "complexity": "hard",
+        "question": "A corporate strategist not only assesses the immediate financial impact of a decision but also its long-term effects on the company’s market position. What type of thinking does this represent?",
+        "options": {
+          "A": "Second-Order Thinking",
+          "B": "Inversion",
+          "C": "Anchoring bias",
+          "D": "Availability heuristic"
+        },
+        "correct_option": "A",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "Second-Order Thinking involves looking beyond immediate outcomes to consider long-term implications."
+      },
+      {
+        "id": "MC37",
+        "complexity": "easy",
+        "question": "A commuter, upon hearing a traffic update about a minor accident, quickly decides to take an alternative route. What is the most straightforward explanation?",
+        "options": {
+          "A": "The accident caused a major delay",
+          "B": "The alternative route is faster due to lighter traffic",
+          "C": "The update was incorrect",
+          "D": "The commuter dislikes the main route"
+        },
+        "correct_option": "B",
+        "mental_model": "Occam's Razor",
+        "explanation": "Occam's Razor favors the simplest explanation—in this case, taking an alternate route due to lighter traffic."
+      },
+      {
+        "id": "MC38",
+        "complexity": "easy",
+        "question": "A shopper compares two similar laptops and opts for the one with a slightly lower price and similar features. What reasoning underlies this decision?",
+        "options": {
+          "A": "Cost-benefit analysis",
+          "B": "Confirmation bias",
+          "C": "Anchoring bias",
+          "D": "Risk aversion"
+        },
+        "correct_option": "A",
+        "mental_model": "Cost-Benefit Analysis",
+        "explanation": "Cost-benefit analysis leads to selecting the option that offers nearly identical features at a lower cost."
+      },
+      {
+        "id": "MC39",
+        "complexity": "hard",
+        "question": "After reading a few sensationalized news stories about a rare event, a person overestimates its likelihood. What effect is this?",
+        "options": {
+          "A": "Anchoring bias",
+          "B": "Availability heuristic",
+          "C": "Opportunity cost",
+          "D": "Second-Order Thinking"
+        },
+        "correct_option": "B",
+        "mental_model": "Availability Heuristic",
+        "explanation": "The Availability Heuristic makes dramatic or recent events seem more frequent than they actually are."
+      },
+      {
+        "id": "MC40",
+        "complexity": "hard",
+        "question": "A buyer is initially shown a premium version of a product, which makes the mid-range version seem more affordable. What cognitive bias is at play?",
+        "options": {
+          "A": "Anchoring bias",
+          "B": "Confirmation bias",
+          "C": "Risk aversion",
+          "D": "Sunk cost fallacy"
+        },
+        "correct_option": "A",
+        "mental_model": "Anchoring Bias",
+        "explanation": "Anchoring Bias causes the first price (premium) to serve as a reference, making the mid-range option appear more reasonable."
+      },
+      {
+        "id": "MC41",
+        "complexity": "hard",
+        "question": "A team leader disregards feedback that contradicts his initial project plan, preferring only supportive opinions. Which bias does this illustrate?",
+        "options": {
+          "A": "Confirmation bias",
+          "B": "Inversion",
+          "C": "Opportunity cost",
+          "D": "Cost-benefit analysis"
+        },
+        "correct_option": "A",
+        "mental_model": "Confirmation Bias",
+        "explanation": "Confirmation Bias leads to favoring information that supports one’s preexisting plan and ignoring contradictory evidence."
+      },
+      {
+        "id": "MC42",
+        "complexity": "hard",
+        "question": "In a volatile market, an investor chooses a low-yield but stable investment over a risky high-yield option. What is the primary driver of this decision?",
+        "options": {
+          "A": "Risk aversion",
+          "B": "Sunk cost fallacy",
+          "C": "Prospect theory",
+          "D": "Opportunity cost"
+        },
+        "correct_option": "A",
+        "mental_model": "Risk Aversion",
+        "explanation": "Risk aversion explains the preference for stable, low-yield investments in uncertain conditions."
+      },
+      {
+        "id": "MC43",
+        "complexity": "hard",
+        "question": "A company analyzes two potential projects by evaluating both the potential gains and the potential losses associated with each. Which theory does this best exemplify?",
+        "options": {
+          "A": "Prospect Theory",
+          "B": "Cost-benefit analysis",
+          "C": "Sunk cost fallacy",
+          "D": "Inversion"
+        },
+        "correct_option": "A",
+        "mental_model": "Prospect Theory",
+        "explanation": "Prospect Theory evaluates decisions based on the balance of potential gains versus losses."
+      },
+      {
+        "id": "MC44",
+        "complexity": "hard",
+        "question": "A project manager continues funding a failing project solely because of the significant resources already spent. What error is this?",
+        "options": {
+          "A": "Opportunity cost",
+          "B": "Sunk cost fallacy",
+          "C": "Confirmation bias",
+          "D": "Risk aversion"
+        },
+        "correct_option": "B",
+        "mental_model": "Sunk Cost Fallacy",
+        "explanation": "The Sunk Cost Fallacy is when past investments unduly influence the decision to continue a project."
+      },
+      {
+        "id": "MC45",
+        "complexity": "hard",
+        "question": "In reviewing his work, a researcher discovers that 20% of his experiments yielded 80% of his findings. What does this scenario illustrate?",
+        "options": {
+          "A": "Pareto Principle",
+          "B": "Anchoring bias",
+          "C": "Inversion",
+          "D": "Opportunity cost"
+        },
+        "correct_option": "A",
+        "mental_model": "Pareto Principle",
+        "explanation": "The Pareto Principle indicates that a small percentage of efforts often results in the majority of outcomes."
+      },
+      {
+        "id": "MC46",
+        "complexity": "hard",
+        "question": "A CEO, evaluating a potential new market, considers what would happen if the company did nothing instead. What strategy is being used?",
+        "options": {
+          "A": "Inversion",
+          "B": "Confirmation bias",
+          "C": "Risk aversion",
+          "D": "Opportunity cost"
+        },
+        "correct_option": "A",
+        "mental_model": "Inversion",
+        "explanation": "Inversion involves considering the outcome of doing nothing to better understand the impact of a decision."
+      },
+      {
+        "id": "MC47",
+        "complexity": "hard",
+        "question": "When evaluating two similar business proposals, an executive weighs not only the potential profits but also what she might lose by not choosing the alternative. Which concept best captures this approach?",
+        "options": {
+          "A": "Opportunity cost",
+          "B": "Sunk cost fallacy",
+          "C": "Cost-benefit analysis",
+          "D": "Prospect theory"
+        },
+        "correct_option": "A",
+        "mental_model": "Opportunity Cost",
+        "explanation": "Opportunity cost is the benefit lost by not pursuing the next best alternative."
+      },
+      {
+        "id": "MC48",
+        "complexity": "hard",
+        "question": "A strategist considers not only the direct effects of a decision but also its secondary and tertiary impacts on market dynamics. What type of thinking is this?",
+        "options": {
+          "A": "Second-Order Thinking",
+          "B": "Anchoring bias",
+          "C": "Availability heuristic",
+          "D": "Confirmation bias"
+        },
+        "correct_option": "A",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "Second-Order Thinking involves evaluating long-term, cascading consequences beyond the immediate effects."
+      },
+      {
+        "id": "MC49",
+        "complexity": "easy",
+        "question": "A commuter hears that a local bus service is temporarily suspended and chooses another mode of transport. What is the most straightforward explanation?",
+        "options": {
+          "A": "The bus service was canceled due to maintenance",
+          "B": "The suspension was due to a strike",
+          "C": "There was an accident involving the buses",
+          "D": "The announcement was a mistake"
+        },
+        "correct_option": "A",
+        "mental_model": "Occam's Razor",
+        "explanation": "Occam's Razor suggests the simplest explanation—routine maintenance causing a suspension—is most likely."
+      },
+      {
+        "id": "MC50",
+        "complexity": "easy",
+        "question": "A customer compares two similar gadgets and selects the one with a marginally lower price, assuming it provides equivalent performance. Which analysis supports this choice?",
+        "options": {
+          "A": "Risk aversion",
+          "B": "Cost-benefit analysis",
+          "C": "Inversion",
+          "D": "Sunk cost fallacy"
+        },
+        "correct_option": "B",
+        "mental_model": "Cost-Benefit Analysis",
+        "explanation": "Cost-benefit analysis involves comparing options based on price and performance, favoring the lower-cost alternative when benefits are equal."
+      }
+    ]
+  }
+  

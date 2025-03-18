@@ -1,0 +1,605 @@
+{
+    "dataset": [
+      {
+        "id": "MC1",
+        "complexity": "easy",
+        "question": "Your car unexpectedly stops on a highway during a short trip. Which of the following is the most common and simplest explanation?",
+        "options": {
+          "A": "A major engine breakdown",
+          "B": "Running out of fuel",
+          "C": "A flat tire due to debris",
+          "D": "An electronic system malfunction"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC2",
+        "complexity": "easy",
+        "question": "A student needs a quick snack between classes. Which option is typically the fastest to grab?",
+        "options": {
+          "A": "A home-cooked meal",
+          "B": "A pre-packaged sandwich",
+          "C": "Dining in a restaurant",
+          "D": "Ordering delivery"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC3",
+        "complexity": "easy",
+        "question": "When choosing a mode of transport for a short city trip on a sunny day, which option usually saves the most time?",
+        "options": {
+          "A": "Taking a bus with multiple stops",
+          "B": "Using a ride-hailing service for a direct route",
+          "C": "Driving your own car",
+          "D": "Walking"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC4",
+        "complexity": "easy",
+        "question": "If you need to prepare for a pop quiz and have only a few minutes, which study method is generally most effective?",
+        "options": {
+          "A": "Reading an entire textbook chapter",
+          "B": "Reviewing summarized notes",
+          "C": "Discussing with peers for hours",
+          "D": "Browsing unrelated articles"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC5",
+        "complexity": "easy",
+        "question": "For a routine check-up at a local clinic, which option is most likely to offer a quick appointment?",
+        "options": {
+          "A": "A major hospital emergency room",
+          "B": "A small local clinic",
+          "C": "A specialized medical center",
+          "D": "A telemedicine session scheduled days later"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC6",
+        "complexity": "easy",
+        "question": "When selecting a mobile phone based on price and basic features, which factor is most important to check first?",
+        "options": {
+          "A": "The latest advanced features",
+          "B": "Battery life and cost",
+          "C": "High-end camera quality",
+          "D": "Premium brand name"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC7",
+        "complexity": "easy",
+        "question": "In a supermarket, if you are in a hurry, which checkout option is most likely to be the fastest?",
+        "options": {
+          "A": "Self-checkout",
+          "B": "Express lane",
+          "C": "Regular lane",
+          "D": "Mobile payment at a kiosk"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC8",
+        "complexity": "easy",
+        "question": "When deciding how to spend a small amount of discretionary money, which approach is typically most conservative?",
+        "options": {
+          "A": "Investing in stocks",
+          "B": "Saving in a bank account",
+          "C": "Spending on luxury items",
+          "D": "Gambling"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC9",
+        "complexity": "easy",
+        "question": "If you have a minor household repair issue, such as a leaky faucet, what is usually the most efficient first step?",
+        "options": {
+          "A": "Call a professional immediately",
+          "B": "Check and tighten the faucet yourself",
+          "C": "Replace the entire plumbing system",
+          "D": "Ignore it hoping it will stop"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC10",
+        "complexity": "easy",
+        "question": "When choosing a mode of communication for a quick question, which option is generally fastest?",
+        "options": {
+          "A": "Email",
+          "B": "Text message",
+          "C": "Traditional mail",
+          "D": "Phone call"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC11",
+        "complexity": "easy",
+        "question": "A traveler wants to save time when booking a hotel for a short stay. Which option typically offers immediate confirmation?",
+        "options": {
+          "A": "Booking via a travel agent",
+          "B": "Using an online booking platform",
+          "C": "Calling the hotel directly",
+          "D": "Visiting the hotel in person"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC12",
+        "complexity": "easy",
+        "question": "If a student must quickly decide on a study environment for an exam, which location is usually most conducive?",
+        "options": {
+          "A": "A noisy cafe",
+          "B": "A quiet library",
+          "C": "A busy park",
+          "D": "A crowded dorm room"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC13",
+        "complexity": "easy",
+        "question": "When ordering food online for a quick meal, which method generally reduces delivery time?",
+        "options": {
+          "A": "Choosing a restaurant far away",
+          "B": "Ordering from a local fast-food outlet",
+          "C": "Selecting a restaurant with complex dishes",
+          "D": "Ordering during peak dinner hours"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC14",
+        "complexity": "easy",
+        "question": "During a power outage, which action is most immediately effective in ensuring safety?",
+        "options": {
+          "A": "Using a candle for light",
+          "B": "Turning off electrical appliances",
+          "C": "Continuing to use all devices",
+          "D": "Ignoring the outage"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC15",
+        "complexity": "easy",
+        "question": "In a day-to-day decision about personal health, which habit is most commonly associated with long-term benefits?",
+        "options": {
+          "A": "Skipping breakfast regularly",
+          "B": "Maintaining a balanced diet",
+          "C": "Consuming only fast food",
+          "D": "Avoiding all physical activity"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC16",
+        "complexity": "easy",
+        "question": "When selecting a book for leisure reading on a short break, which factor is most likely to contribute to immediate enjoyment?",
+        "options": {
+          "A": "A lengthy academic textbook",
+          "B": "A light and engaging novel",
+          "C": "A detailed technical manual",
+          "D": "A multi-volume encyclopedia"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC17",
+        "complexity": "easy",
+        "question": "If you need to decide quickly between two restaurant options for lunch, which factor typically drives a simple decision?",
+        "options": {
+          "A": "A detailed review of each restaurant's history",
+          "B": "The proximity of the restaurant",
+          "C": "Extensive analysis of menu prices",
+          "D": "A lengthy online survey"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC18",
+        "complexity": "easy",
+        "question": "For a spontaneous social outing with friends, which decision is generally made most quickly?",
+        "options": {
+          "A": "Debating several venue options for hours",
+          "B": "Choosing the closest popular spot",
+          "C": "Analyzing detailed reviews of every option",
+          "D": "Organizing a formal reservation process"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC19",
+        "complexity": "easy",
+        "question": "When faced with a minor software issue on your laptop, what is typically the first troubleshooting step?",
+        "options": {
+          "A": "Reboot the computer",
+          "B": "Reinstall the operating system",
+          "C": "Buy a new laptop immediately",
+          "D": "Call technical support without trying anything"
+        },
+        "correct_option": "A"
+      },
+      {
+        "id": "MC20",
+        "complexity": "easy",
+        "question": "When you receive an email with an attachment from an unknown sender, which action is most prudent?",
+        "options": {
+          "A": "Open the attachment immediately",
+          "B": "Delete the email without opening the attachment",
+          "C": "Forward the email to a friend",
+          "D": "Reply asking for confirmation"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC21",
+        "complexity": "medium",
+        "question": "A mid-level manager must decide whether to invest in upgrading office equipment now or wait for the next budget cycle. Which factor should be prioritized for a medium-term decision?",
+        "options": {
+          "A": "Immediate cost savings",
+          "B": "Long-term productivity gains",
+          "C": "Personal preference for new gadgets",
+          "D": "Trends in the technology market"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC22",
+        "complexity": "medium",
+        "question": "In choosing a research project topic, a graduate student has multiple options. Which criterion is most critical for selecting a project that is both feasible and impactful?",
+        "options": {
+          "A": "The topic’s popularity on social media",
+          "B": "The availability of clear, accessible data",
+          "C": "The length of the literature review required",
+          "D": "The project’s ability to win awards"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC23",
+        "complexity": "medium",
+        "question": "A startup founder must decide whether to secure early funding or bootstrap the company. Which consideration generally tips the balance in favor of early funding?",
+        "options": {
+          "A": "Desire to maintain complete control",
+          "B": "Need for rapid scaling and market entry",
+          "C": "Preference for slow, organic growth",
+          "D": "Avoidance of investor scrutiny"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC24",
+        "complexity": "medium",
+        "question": "When a project deadline is approaching and multiple tasks are pending, which method is most effective for prioritizing work?",
+        "options": {
+          "A": "Tackling the easiest tasks first",
+          "B": "Ranking tasks by potential impact on the project",
+          "C": "Randomly selecting tasks",
+          "D": "Focusing only on tasks assigned by a supervisor"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC25",
+        "complexity": "medium",
+        "question": "A consumer is evaluating two competing insurance policies. Which factor is generally most indicative of overall value?",
+        "options": {
+          "A": "The premium cost alone",
+          "B": "Coverage limits and deductibles",
+          "C": "The insurance company’s brand popularity",
+          "D": "The number of years the company has been in business"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC26",
+        "complexity": "medium",
+        "question": "In selecting a laptop for work, which aspect should a professional consider as the most reliable indicator of long-term performance?",
+        "options": {
+          "A": "Screen size",
+          "B": "Processor benchmark scores",
+          "C": "Color and design aesthetics",
+          "D": "Number of USB ports"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC27",
+        "complexity": "medium",
+        "question": "A city council must choose between investing in new public transport infrastructure or improving existing roads. Which approach generally yields a broader public benefit?",
+        "options": {
+          "A": "Investing solely in road repairs",
+          "B": "Expanding and modernizing public transit systems",
+          "C": "Focusing on aesthetic improvements",
+          "D": "Building more parking spaces"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC28",
+        "complexity": "medium",
+        "question": "In deciding how to allocate a limited research budget, which factor should be considered most critical?",
+        "options": {
+          "A": "The number of researchers employed",
+          "B": "The expected return on investment from research outcomes",
+          "C": "The prestige of the research institution",
+          "D": "The geographical location of the research center"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC29",
+        "complexity": "medium",
+        "question": "A marketing team must decide whether to launch a new product immediately or delay for additional market research. Which decision factor is most important in this scenario?",
+        "options": {
+          "A": "Time-to-market pressure",
+          "B": "Comprehensiveness of consumer feedback",
+          "C": "Brand loyalty trends",
+          "D": "Number of competitors"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC30",
+        "complexity": "medium",
+        "question": "When a business considers expanding internationally, which initial step is generally most critical?",
+        "options": {
+          "A": "Opening multiple overseas offices immediately",
+          "B": "Conducting detailed market research in the target country",
+          "C": "Hiring local celebrities for endorsements",
+          "D": "Investing heavily in global advertising"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC31",
+        "complexity": "medium",
+        "question": "A non-profit organization needs to choose between two fundraising strategies. Which strategy is often more sustainable over the long term?",
+        "options": {
+          "A": "One-time high-ticket events",
+          "B": "Regular small-donation campaigns",
+          "C": "Selling branded merchandise only",
+          "D": "Hosting celebrity galas"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC32",
+        "complexity": "medium",
+        "question": "In a scenario where a company faces a minor crisis in public relations, which response strategy is typically most effective?",
+        "options": {
+          "A": "Ignoring the issue until it blows over",
+          "B": "Issuing a prompt and sincere public apology",
+          "C": "Launching a counter-campaign to shift attention",
+          "D": "Firing the responsible employees immediately"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC33",
+        "complexity": "medium",
+        "question": "When selecting a new software tool for data analysis, which criterion generally leads to the best long-term fit?",
+        "options": {
+          "A": "Lowest upfront cost",
+          "B": "Compatibility with existing systems and scalability",
+          "C": "Brand name recognition",
+          "D": "Color and design of the user interface"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC34",
+        "complexity": "medium",
+        "question": "A research team must choose between two experimental designs. Which factor is most crucial to ensure reliable results?",
+        "options": {
+          "A": "The complexity of the design",
+          "B": "The statistical power and control of variables",
+          "C": "The novelty of the approach",
+          "D": "The reputation of the principal investigator"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC35",
+        "complexity": "medium",
+        "question": "When determining the best strategy for reducing energy consumption in a building, which factor should be prioritized?",
+        "options": {
+          "A": "Installing decorative lighting",
+          "B": "Improving insulation and energy efficiency measures",
+          "C": "Increasing the number of windows",
+          "D": "Switching to a new paint color"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC36",
+        "complexity": "hard",
+        "question": "A venture capitalist is evaluating two startups for investment. One uses a novel technology but unproven market, while the other has a solid market but outdated technology. Which decision factor is most complex and requires deeper analysis?",
+        "options": {
+          "A": "The founders’ personal backgrounds",
+          "B": "The potential for long-term market disruption versus short-term profitability",
+          "C": "The current stock market trends",
+          "D": "The office locations of the startups"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC37",
+        "complexity": "hard",
+        "question": "In an international trade negotiation, a country must decide whether to lower tariffs to boost exports or maintain high tariffs to protect local industries. Which factor makes this decision particularly complex?",
+        "options": {
+          "A": "Short-term revenue versus long-term economic growth",
+          "B": "The weather conditions during negotiations",
+          "C": "The number of countries involved",
+          "D": "The language spoken at the negotiation table"
+        },
+        "correct_option": "A"
+      },
+      {
+        "id": "MC38",
+        "complexity": "hard",
+        "question": "A city is planning a new public transportation system and must decide between building a metro line or an extensive bus rapid transit (BRT) network. Which consideration requires more intricate analysis?",
+        "options": {
+          "A": "The initial construction cost",
+          "B": "Long-term operational efficiency and coverage area",
+          "C": "The color of the vehicles",
+          "D": "The number of stops along the route"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC39",
+        "complexity": "hard",
+        "question": "An investor is considering a portfolio that includes both stable bonds and volatile stocks. Which factor most complicates the decision-making process?",
+        "options": {
+          "A": "The daily fluctuations of the stock market",
+          "B": "Balancing risk tolerance with desired returns over varying time horizons",
+          "C": "The physical location of the investor",
+          "D": "The color scheme of the investor’s portfolio report"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC40",
+        "complexity": "hard",
+        "question": "A policymaker must decide whether to implement a new regulation that could slow economic growth in exchange for improved social welfare. Which aspect of this decision is most challenging?",
+        "options": {
+          "A": "The immediate political approval",
+          "B": "Predicting long-term economic impacts versus short-term social benefits",
+          "C": "The technical writing of the regulation",
+          "D": "The color of the policy documents"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC41",
+        "complexity": "hard",
+        "question": "A multinational corporation is planning to restructure its global supply chain. Which factor adds the greatest complexity to the decision?",
+        "options": {
+          "A": "The number of warehouses",
+          "B": "Coordinating diverse regulatory environments and logistical costs across regions",
+          "C": "The company’s logo design",
+          "D": "The number of employees in headquarters"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC42",
+        "complexity": "hard",
+        "question": "When a hospital must decide on investing in cutting-edge but expensive medical equipment versus upgrading existing technology, which analysis is most critical?",
+        "options": {
+          "A": "The brand of the equipment",
+          "B": "A cost-benefit analysis considering patient outcomes and long-term savings",
+          "C": "The color of the machines",
+          "D": "The number of units available on the market"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC43",
+        "complexity": "hard",
+        "question": "A government is evaluating proposals for renewable energy projects. Which factor generally demands the most detailed assessment?",
+        "options": {
+          "A": "The project’s logo",
+          "B": "The environmental impact versus economic feasibility over the project’s lifespan",
+          "C": "The number of employees at the bidding companies",
+          "D": "The color scheme of the project plans"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC44",
+        "complexity": "hard",
+        "question": "In a scenario where a tech firm must choose between two R&D projects—one with immediate market applicability and one with high long-term innovation potential—which decision typically requires more complex analysis?",
+        "options": {
+          "A": "Immediate revenue potential alone",
+          "B": "Evaluating both short-term gains and long-term strategic positioning",
+          "C": "The size of the R&D team",
+          "D": "The color of the office walls"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC45",
+        "complexity": "hard",
+        "question": "A research institute is deciding whether to allocate funds to a well-established project or a high-risk, pioneering study. Which factor adds the greatest uncertainty to this decision?",
+        "options": {
+          "A": "The established project's routine status",
+          "B": "The potential for groundbreaking results versus the risk of failure",
+          "C": "The institute’s current number of researchers",
+          "D": "The location of the research facility"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC46",
+        "complexity": "hard",
+        "question": "A corporate executive must choose between a short-term aggressive marketing campaign and a long-term brand-building strategy. Which decision factor is most multifaceted?",
+        "options": {
+          "A": "The immediate cost of the campaign",
+          "B": "Balancing immediate sales boosts with sustained brand equity growth",
+          "C": "The campaign’s slogan",
+          "D": "The number of social media posts planned"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC47",
+        "complexity": "hard",
+        "question": "In planning a major urban development project, which decision aspect is most critical to evaluate thoroughly?",
+        "options": {
+          "A": "The architectural design aesthetics",
+          "B": "The integration of infrastructure investment with community impact and future growth",
+          "C": "The color of building materials",
+          "D": "The number of construction firms bidding"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC48",
+        "complexity": "hard",
+        "question": "A university department is determining whether to adopt a new curriculum or continue with its current one. Which consideration typically requires the most in-depth analysis?",
+        "options": {
+          "A": "Faculty preferences",
+          "B": "Long-term educational outcomes and alignment with industry trends",
+          "C": "The aesthetics of the course materials",
+          "D": "The current student enrollment numbers"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC49",
+        "complexity": "hard",
+        "question": "When a multinational must choose a strategy for dealing with currency fluctuations, which factor generally adds the most complexity to the decision?",
+        "options": {
+          "A": "The country’s flag colors",
+          "B": "Hedging strategies that balance risk across diverse markets",
+          "C": "The number of currencies used",
+          "D": "The company’s annual revenue"
+        },
+        "correct_option": "B"
+      },
+      {
+        "id": "MC50",
+        "complexity": "hard",
+        "question": "In a scenario where a tech company must decide whether to develop in-house software or outsource to a specialized firm, which analysis is most critical?",
+        "options": {
+          "A": "The cost of office supplies",
+          "B": "Comparing long-term control, innovation potential, and total cost of ownership",
+          "C": "The color of the company logo",
+          "D": "The number of employees in the IT department"
+        },
+        "correct_option": "B"
+      }
+    ]
+  }
+  

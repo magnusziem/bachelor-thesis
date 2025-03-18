@@ -1,0 +1,405 @@
+{
+    "dataset": [
+      {
+        "id": "YN1",
+        "complexity": "easy",
+        "question": "A commuter hears that the usual bus route is delayed due to minor road repairs. Should he consider taking an alternative route?",
+        "expected_answer": "Yes",
+        "mental_model": "Occam's Razor",
+        "explanation": "The simplest explanation—routine repairs causing delay—suggests switching routes is a sensible, common-sense response."
+      },
+      {
+        "id": "YN2",
+        "complexity": "easy",
+        "question": "A local café offers a discount on a cloudy day. Should a customer expect that the food quality is lower on that day?",
+        "expected_answer": "No",
+        "mental_model": "Cost-Benefit Analysis",
+        "explanation": "A discount is likely a strategy to boost sales during low footfall rather than a reflection of poor quality."
+      },
+      {
+        "id": "YN3",
+        "complexity": "easy",
+        "question": "A person hears about a minor accident on his usual route. Should he automatically avoid that route?",
+        "expected_answer": "No",
+        "mental_model": "Availability Heuristic",
+        "explanation": "Even though the accident is memorable, it may be minor; thus, avoiding the route without further information is not warranted."
+      },
+      {
+        "id": "YN4",
+        "complexity": "easy",
+        "question": "A shopper sees a high initial price for a product and later finds a lower price for a similar item. Should she assume the lower price means the product is inferior?",
+        "expected_answer": "No",
+        "mental_model": "Anchoring Bias",
+        "explanation": "Anchoring on the high price may skew perceptions, but a lower price alone does not imply poor quality."
+      },
+      {
+        "id": "YN5",
+        "complexity": "easy",
+        "question": "A student receives positive feedback on a project despite minor criticisms. Should he ignore the negative comments entirely?",
+        "expected_answer": "No",
+        "mental_model": "Confirmation Bias",
+        "explanation": "Even if positive feedback predominates, it’s important to consider all viewpoints rather than dismissing conflicting information."
+      },
+      {
+        "id": "YN6",
+        "complexity": "easy",
+        "question": "An investor prefers a government bond over a high-yield stock during uncertain times. Should he always choose the safer option?",
+        "expected_answer": "Yes",
+        "mental_model": "Risk Aversion",
+        "explanation": "Risk aversion leads investors to favor secure, low-risk investments in uncertain environments."
+      },
+      {
+        "id": "YN7",
+        "complexity": "easy",
+        "question": "A person hears repeated news reports about a product defect. Should they assume the defect is widespread?",
+        "expected_answer": "No",
+        "mental_model": "Availability Heuristic",
+        "explanation": "Although memorable, repeated reports may exaggerate the commonness of the defect; the actual incidence may remain low."
+      },
+      {
+        "id": "YN8",
+        "complexity": "easy",
+        "question": "A commuter learns that a bus service was delayed due to a short power outage. Should he expect the entire service to be canceled?",
+        "expected_answer": "No",
+        "mental_model": "Occam's Razor",
+        "explanation": "A brief outage typically causes only temporary delays, not full cancellations."
+      },
+      {
+        "id": "YN9",
+        "complexity": "easy",
+        "question": "A local store reduces prices on certain items during off-peak hours. Should a customer assume this means the products are of lower quality?",
+        "expected_answer": "No",
+        "mental_model": "Cost-Benefit Analysis",
+        "explanation": "Price reductions during off-peak times are a common strategy to boost sales, not an indicator of poor quality."
+      },
+      {
+        "id": "YN10",
+        "complexity": "easy",
+        "question": "A person hears a rumor that a nearby park will have an event tomorrow. Should they assume the event has been confirmed?",
+        "expected_answer": "No",
+        "mental_model": "Occam's Razor",
+        "explanation": "Rumors often lack confirmation; the simplest assumption is that no formal event has been scheduled."
+      },
+      {
+        "id": "YN11",
+        "complexity": "medium",
+        "question": "A smartphone advertisement shows a very high price before presenting discounts. Should a buyer consider the final discounted price as a good deal?",
+        "expected_answer": "Yes",
+        "mental_model": "Anchoring Bias",
+        "explanation": "The initial high price serves as an anchor, making the discounted price appear more attractive in comparison."
+      },
+      {
+        "id": "YN12",
+        "complexity": "medium",
+        "question": "A manager is offered data that slightly contradicts his long-standing strategy. Should he completely disregard the new data?",
+        "expected_answer": "No",
+        "mental_model": "Confirmation Bias",
+        "explanation": "Even if the new data conflicts with prior beliefs, a balanced review is necessary rather than outright dismissal."
+      },
+      {
+        "id": "YN13",
+        "complexity": "medium",
+        "question": "An investor notices a stock that has performed exceptionally well recently. Should he assume that its future performance will continue to be excellent?",
+        "expected_answer": "No",
+        "mental_model": "Risk Aversion",
+        "explanation": "Past performance, even if impressive, does not guarantee future results, especially when considering risk factors."
+      },
+      {
+        "id": "YN14",
+        "complexity": "medium",
+        "question": "A business faces two proposals with similar immediate benefits. Should the decision-maker consider potential long-term impacts before choosing?",
+        "expected_answer": "Yes",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "Second-Order Thinking involves evaluating both immediate and long-term consequences, making it wise to consider future impacts."
+      },
+      {
+        "id": "YN15",
+        "complexity": "medium",
+        "question": "A student decides to continue using a study method because it worked well last semester. Should she reevaluate her methods for the current term?",
+        "expected_answer": "Yes",
+        "mental_model": "Opportunity Cost",
+        "explanation": "Reevaluating can reveal if alternative methods might yield even better results, accounting for the opportunity cost of sticking with the old method."
+      },
+      {
+        "id": "YN16",
+        "complexity": "medium",
+        "question": "An employee faces two projects and chooses one because it seems less risky. Should they always avoid riskier projects?",
+        "expected_answer": "No",
+        "mental_model": "Risk Aversion",
+        "explanation": "While risk aversion is common, sometimes taking calculated risks can lead to greater rewards."
+      },
+      {
+        "id": "YN17",
+        "complexity": "medium",
+        "question": "A company continues investing in a product line despite declining sales. Should they cancel the product immediately?",
+        "expected_answer": "Yes",
+        "mental_model": "Sunk Cost Fallacy",
+        "explanation": "Ideally, decisions should be based on future prospects rather than past investments; canceling might be the better option."
+      },
+      {
+        "id": "YN18",
+        "complexity": "medium",
+        "question": "A team leader compares two work strategies and considers what might be lost if one is not chosen. Should this comparison influence the decision?",
+        "expected_answer": "Yes",
+        "mental_model": "Opportunity Cost",
+        "explanation": "Considering opportunity cost helps in understanding what is sacrificed by choosing one option over another."
+      },
+      {
+        "id": "YN19",
+        "complexity": "medium",
+        "question": "A manager contemplates what might happen if an alternative approach were taken. Should she consider this as part of her decision-making?",
+        "expected_answer": "Yes",
+        "mental_model": "Inversion",
+        "explanation": "Inversion involves evaluating the potential outcomes of the opposite strategy, which is a valuable decision-making tool."
+      },
+      {
+        "id": "YN20",
+        "complexity": "medium",
+        "question": "A consumer is presented with conflicting reviews about a product. Should they assume the product is unreliable?",
+        "expected_answer": "No",
+        "mental_model": "Confirmation Bias",
+        "explanation": "Mixed reviews warrant a balanced evaluation rather than a conclusion based solely on negative opinions."
+      },
+      {
+        "id": "YN21",
+        "complexity": "hard",
+        "question": "A CEO analyzes two merger proposals by looking at both immediate profits and long-term strategic benefits. Should she ignore the long-term effects?",
+        "expected_answer": "No",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "Effective strategy involves considering both short-term and long-term impacts, not ignoring future consequences."
+      },
+      {
+        "id": "YN22",
+        "complexity": "hard",
+        "question": "A project manager, after investing heavily in a failing project, continues funding it. Should he reassess the project based on its future potential alone?",
+        "expected_answer": "Yes",
+        "mental_model": "Sunk Cost Fallacy",
+        "explanation": "Decisions should be based on future prospects, not past investments, to avoid the sunk cost fallacy."
+      },
+      {
+        "id": "YN23",
+        "complexity": "hard",
+        "question": "An executive sets an unusually high price for a product to make later discounts look attractive. Is this a deliberate strategy?",
+        "expected_answer": "Yes",
+        "mental_model": "Anchoring Bias",
+        "explanation": "Using a high initial price as an anchor is a deliberate tactic to make discounts seem more appealing."
+      },
+      {
+        "id": "YN24",
+        "complexity": "hard",
+        "question": "A researcher receives new data that challenges a long-accepted theory. Should she consider revising her theory based solely on the new data?",
+        "expected_answer": "No",
+        "mental_model": "Confirmation Bias",
+        "explanation": "A balanced review is needed; one piece of contradictory data should not lead to immediate revision without further analysis."
+      },
+      {
+        "id": "YN25",
+        "complexity": "hard",
+        "question": "A business leader compares two proposals by not only assessing direct benefits but also potential losses from not choosing the alternative. Should this comprehensive analysis be part of the decision?",
+        "expected_answer": "Yes",
+        "mental_model": "Prospect Theory",
+        "explanation": "Prospect Theory suggests that both potential gains and losses should be evaluated in decision-making."
+      },
+      {
+        "id": "YN26",
+        "complexity": "hard",
+        "question": "A startup founder decides to stick with a product idea despite new market trends suggesting otherwise. Should he reconsider the idea based on current market conditions?",
+        "expected_answer": "Yes",
+        "mental_model": "Sunk Cost Fallacy",
+        "explanation": "It’s important to base decisions on current data and future potential rather than past investments."
+      },
+      {
+        "id": "YN27",
+        "complexity": "hard",
+        "question": "A strategic planner considers what might happen if no changes were made to the current approach. Should this scenario be evaluated?",
+        "expected_answer": "Yes",
+        "mental_model": "Inversion",
+        "explanation": "Evaluating the outcomes of inaction (inversion) is a critical method to highlight potential risks and benefits."
+      },
+      {
+        "id": "YN28",
+        "complexity": "hard",
+        "question": "An investor, after seeing a few high-profile success stories, assumes a particular risky investment is a guaranteed win. Should he question this assumption?",
+        "expected_answer": "Yes",
+        "mental_model": "Availability Heuristic",
+        "explanation": "The Availability Heuristic can lead to overestimating success rates based on memorable examples; skepticism is warranted."
+      },
+      {
+        "id": "YN29",
+        "complexity": "hard",
+        "question": "A company’s executive uses historical data to decide on future investments. Should they also consider current market trends?",
+        "expected_answer": "Yes",
+        "mental_model": "Opportunity Cost",
+        "explanation": "Opportunity cost involves comparing historical data with current trends to make a well-informed decision."
+      },
+      {
+        "id": "YN30",
+        "complexity": "hard",
+        "question": "A manager evaluates two operational strategies by estimating not only immediate outcomes but also potential ripple effects. Should the ripple effects be considered?",
+        "expected_answer": "Yes",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "Second-Order Thinking emphasizes considering both direct and indirect consequences of decisions."
+      },
+      {
+        "id": "YN31",
+        "complexity": "hard",
+        "question": "A decision-maker hears conflicting reports about a product defect and concludes it is widespread. Should they verify the data before acting?",
+        "expected_answer": "Yes",
+        "mental_model": "Availability Heuristic",
+        "explanation": "Memorable reports can exaggerate the frequency of events; verification is essential."
+      },
+      {
+        "id": "YN32",
+        "complexity": "hard",
+        "question": "A student relies on one effective study method and ignores all alternatives. Should she experiment with other methods?",
+        "expected_answer": "Yes",
+        "mental_model": "Opportunity Cost",
+        "explanation": "Exploring other study methods can reveal even more effective strategies, acknowledging the opportunity cost of not experimenting."
+      },
+      {
+        "id": "YN33",
+        "complexity": "hard",
+        "question": "A business leader continues a failing project due to the significant resources already spent. Should she discontinue the project despite past investments?",
+        "expected_answer": "Yes",
+        "mental_model": "Sunk Cost Fallacy",
+        "explanation": "Decisions should be based on future prospects rather than past investments to avoid the sunk cost fallacy."
+      },
+      {
+        "id": "YN34",
+        "complexity": "hard",
+        "question": "A manager uses a high initial benchmark to evaluate lower-priced alternatives. Should the initial benchmark be considered a biasing factor?",
+        "expected_answer": "Yes",
+        "mental_model": "Anchoring Bias",
+        "explanation": "A high benchmark can bias evaluations; recognizing this helps in making a more balanced decision."
+      },
+      {
+        "id": "YN35",
+        "complexity": "hard",
+        "question": "When evaluating a new technology, should a company base its decision solely on short-term gains?",
+        "expected_answer": "No",
+        "mental_model": "Prospect Theory",
+        "explanation": "A balanced evaluation should consider both short-term gains and long-term risks and benefits."
+      },
+      {
+        "id": "YN36",
+        "complexity": "hard",
+        "question": "A policymaker receives new evidence that challenges a current regulation. Should they update the regulation immediately without further analysis?",
+        "expected_answer": "No",
+        "mental_model": "Confirmation Bias",
+        "explanation": "Even contradictory evidence should be thoroughly analyzed before making policy changes."
+      },
+      {
+        "id": "YN37",
+        "complexity": "hard",
+        "question": "A startup founder believes that past success guarantees future success. Should they reexamine their assumptions?",
+        "expected_answer": "Yes",
+        "mental_model": "Sunk Cost Fallacy",
+        "explanation": "Past success does not ensure future outcomes; assumptions should be reexamined in light of current conditions."
+      },
+      {
+        "id": "YN38",
+        "complexity": "hard",
+        "question": "An executive considers the possibility of an alternative market trend before finalizing an investment decision. Should this alternative be factored into the decision?",
+        "expected_answer": "Yes",
+        "mental_model": "Inversion",
+        "explanation": "Considering the alternative scenario helps identify potential risks and opportunities."
+      },
+      {
+        "id": "YN39",
+        "complexity": "hard",
+        "question": "A consumer sees an advertisement that highlights exceptional product features. Should they assume that similar products lack these features?",
+        "expected_answer": "No",
+        "mental_model": "Anchoring Bias",
+        "explanation": "The advertisement may create an anchor, but it does not imply that other products are necessarily inferior."
+      },
+      {
+        "id": "YN40",
+        "complexity": "hard",
+        "question": "When faced with a choice between two complex projects, should a manager only consider the project with higher immediate returns?",
+        "expected_answer": "No",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "A comprehensive decision should account for long-term impacts as well as immediate returns."
+      },
+      {
+        "id": "YN41",
+        "complexity": "hard",
+        "question": "A company experiences a minor issue with one of its products. Should the company assume that all similar products are also problematic?",
+        "expected_answer": "No",
+        "mental_model": "Availability Heuristic",
+        "explanation": "A single issue should not be generalized; a broader analysis is necessary."
+      },
+      {
+        "id": "YN42",
+        "complexity": "hard",
+        "question": "A team leader is offered a new strategy that contradicts traditional methods. Should they reject it outright because it is unfamiliar?",
+        "expected_answer": "No",
+        "mental_model": "Confirmation Bias",
+        "explanation": "While unfamiliarity may cause hesitation, rejecting a new strategy without consideration can be a sign of confirmation bias."
+      },
+      {
+        "id": "YN43",
+        "complexity": "hard",
+        "question": "A policymaker receives reports that a regulation has unintended negative effects. Should they ignore these reports because the regulation has worked in the past?",
+        "expected_answer": "No",
+        "mental_model": "Confirmation Bias",
+        "explanation": "Ignoring new evidence due to past success is a classic example of confirmation bias; all data should be considered."
+      },
+      {
+        "id": "YN44",
+        "complexity": "hard",
+        "question": "A business evaluates a project by considering what would happen if they did nothing. Should this analysis be part of the decision process?",
+        "expected_answer": "Yes",
+        "mental_model": "Inversion",
+        "explanation": "Inversion involves assessing the outcomes of inaction, which is a critical component of thorough decision-making."
+      },
+      {
+        "id": "YN45",
+        "complexity": "hard",
+        "question": "A financial analyst reviews historical performance data before making an investment decision. Should they also consider current market indicators?",
+        "expected_answer": "Yes",
+        "mental_model": "Opportunity Cost",
+        "explanation": "Effective analysis requires comparing historical data with current market conditions to account for opportunity costs."
+      },
+      {
+        "id": "YN46",
+        "complexity": "hard",
+        "question": "A startup founder sticks with a product idea because it worked in the past, despite new evidence suggesting it may not succeed now. Should they reconsider?",
+        "expected_answer": "Yes",
+        "mental_model": "Sunk Cost Fallacy",
+        "explanation": "Future decisions should be based on current data rather than past investments, avoiding the sunk cost fallacy."
+      },
+      {
+        "id": "YN47",
+        "complexity": "hard",
+        "question": "A manager is presented with two strategic options that offer similar short-term benefits. Should she analyze their long-term impacts before deciding?",
+        "expected_answer": "Yes",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "Second-Order Thinking requires evaluating both immediate and long-term consequences to make an informed decision."
+      },
+      {
+        "id": "YN48",
+        "complexity": "hard",
+        "question": "When reviewing conflicting market research, should a decision-maker rely solely on the most recent data?",
+        "expected_answer": "No",
+        "mental_model": "Availability Heuristic",
+        "explanation": "Relying solely on recent data may lead to an overemphasis on memorable events; a broader analysis is essential."
+      },
+      {
+        "id": "YN49",
+        "complexity": "hard",
+        "question": "A CEO uses historical benchmarks to evaluate a new market opportunity. Should they disregard current trends?",
+        "expected_answer": "No",
+        "mental_model": "Opportunity Cost",
+        "explanation": "Current trends must be considered alongside historical benchmarks to understand the full opportunity cost."
+      },
+      {
+        "id": "YN50",
+        "complexity": "hard",
+        "question": "A marketing strategist compares two campaign approaches by analyzing both short-term sales and long-term brand impact. Should the long-term impact be ignored?",
+        "expected_answer": "No",
+        "mental_model": "Cost-Benefit Analysis",
+        "explanation": "A comprehensive evaluation should include both immediate returns and long-term effects; ignoring one undermines the overall analysis."
+      }
+    ]
+  }
+  

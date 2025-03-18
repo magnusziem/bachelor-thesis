@@ -1,0 +1,405 @@
+{
+    "dataset": [
+      {
+        "id": "OE1",
+        "complexity": "easy",
+        "question": "Describe the most likely reason why your car suddenly stopped on the highway during a short trip.",
+        "expected_answer": "The car ran out of fuel.",
+        "mental_model": "Occam's Razor",
+        "explanation": "Occam's Razor suggests that the simplest explanation (running out of fuel) is most likely."
+      },
+      {
+        "id": "OE2",
+        "complexity": "easy",
+        "question": "Explain why a small local shop might close earlier than usual on a weekday.",
+        "expected_answer": "It likely closed early for routine maintenance or restocking.",
+        "mental_model": "Cost-Benefit Analysis",
+        "explanation": "A low-cost, common occurrence like routine maintenance is the most reasonable explanation."
+      },
+      {
+        "id": "OE3",
+        "complexity": "easy",
+        "question": "In your own words, describe a simple reason for a streetlight to malfunction temporarily.",
+        "expected_answer": "It could be due to a brief power outage.",
+        "mental_model": "Occam's Razor",
+        "explanation": "The simplest cause, such as a power outage, is often the correct one."
+      },
+      {
+        "id": "OE4",
+        "complexity": "easy",
+        "question": "Imagine you hear a rumor that a common household appliance is failing. Explain what might be the most typical reason for this failure.",
+        "expected_answer": "The appliance likely failed due to regular wear and tear or a minor defect.",
+        "mental_model": "Availability Heuristic",
+        "explanation": "The Availability Heuristic leads us to consider common, frequently reported issues."
+      },
+      {
+        "id": "OE5",
+        "complexity": "easy",
+        "question": "A commuter learns about a minor accident on his usual route. Describe the most straightforward action he might take.",
+        "expected_answer": "He would likely choose an alternate route to avoid delays.",
+        "mental_model": "Occam's Razor",
+        "explanation": "The simplest and most common response is to divert to an alternative route."
+      },
+      {
+        "id": "OE6",
+        "complexity": "easy",
+        "question": "Explain why a café might offer a discount on a rainy day.",
+        "expected_answer": "To attract more customers during a typically slow period.",
+        "mental_model": "Cost-Benefit Analysis",
+        "explanation": "Using cost-benefit reasoning, a discount during slow periods is a low-cost way to boost sales."
+      },
+      {
+        "id": "OE7",
+        "complexity": "easy",
+        "question": "Describe a likely reason a grocery store might run a flash sale on a perishable item.",
+        "expected_answer": "To quickly reduce inventory before the product spoils.",
+        "mental_model": "Cost-Benefit Analysis",
+        "explanation": "A flash sale minimizes losses by quickly selling perishable goods."
+      },
+      {
+        "id": "OE8",
+        "complexity": "easy",
+        "question": "In everyday life, why might someone choose a simple meal option when dining out?",
+        "expected_answer": "They may choose it for its ease, affordability, or familiarity.",
+        "mental_model": "Occam's Razor",
+        "explanation": "Occam's Razor leads to the simplest, most familiar choice in routine situations."
+      },
+      {
+        "id": "OE9",
+        "complexity": "easy",
+        "question": "Provide a brief explanation for why a public park might host a community event on a sunny weekend.",
+        "expected_answer": "Sunny weekends naturally attract people, making it an ideal time for community events.",
+        "mental_model": "Availability Heuristic",
+        "explanation": "The common association of sunny weather with outdoor activities makes this explanation straightforward."
+      },
+      {
+        "id": "OE10",
+        "complexity": "easy",
+        "question": "Explain a common reason for a local bus service to temporarily alter its schedule.",
+        "expected_answer": "The service might change due to minor road repairs or operational adjustments.",
+        "mental_model": "Occam's Razor",
+        "explanation": "Routine adjustments like road repairs are simple and likely explanations."
+      },
+      {
+        "id": "OE11",
+        "complexity": "medium",
+        "question": "Describe how a buyer might decide on a smartphone purchase when first shown a high-priced model followed by moderately priced alternatives.",
+        "expected_answer": "The high-priced model sets a reference point, making the moderately priced options appear more reasonable.",
+        "mental_model": "Anchoring Bias",
+        "explanation": "Anchoring Bias causes the initial price to serve as a reference, influencing subsequent evaluations."
+      },
+      {
+        "id": "OE12",
+        "complexity": "medium",
+        "question": "A manager receives mixed feedback on a project. Explain how she might evaluate the situation if she tends to focus on supportive comments.",
+        "expected_answer": "She may disregard negative feedback and emphasize comments that confirm her beliefs.",
+        "mental_model": "Confirmation Bias",
+        "explanation": "Confirmation Bias leads to favoring information that aligns with preexisting views."
+      },
+      {
+        "id": "OE13",
+        "complexity": "medium",
+        "question": "Explain why an investor might prefer a low-risk bond over a high-yield stock even in a booming market.",
+        "expected_answer": "The investor is likely prioritizing stability and minimizing risk over potentially higher but volatile returns.",
+        "mental_model": "Risk Aversion",
+        "explanation": "Risk Aversion explains the preference for secure, stable investments in uncertain conditions."
+      },
+      {
+        "id": "OE14",
+        "complexity": "medium",
+        "question": "Imagine a student who consistently uses a particular study method that yields the majority of her success. Explain why this might be the case.",
+        "expected_answer": "A small set of effective study techniques is responsible for most of her improvements.",
+        "mental_model": "Pareto Principle",
+        "explanation": "The Pareto Principle suggests that a minority of inputs can produce the majority of outcomes."
+      },
+      {
+        "id": "OE15",
+        "complexity": "medium",
+        "question": "Describe how a business owner might evaluate two competing proposals when considering what might be lost by not choosing the alternative.",
+        "expected_answer": "She would assess the opportunity cost, weighing potential benefits against what might be missed.",
+        "mental_model": "Opportunity Cost",
+        "explanation": "Opportunity Cost involves comparing the benefits of the chosen option with the benefits of the next best alternative."
+      },
+      {
+        "id": "OE16",
+        "complexity": "medium",
+        "question": "A team leader decides to consider what could go wrong if they took a different approach to a project. Explain this thought process.",
+        "expected_answer": "He is using a strategy that involves thinking about the inverse scenario to uncover potential pitfalls.",
+        "mental_model": "Inversion",
+        "explanation": "Inversion involves examining the opposite scenario to better evaluate the current plan."
+      },
+      {
+        "id": "OE17",
+        "complexity": "medium",
+        "question": "Explain why a project manager might continue funding a failing project despite clear signs of poor performance.",
+        "expected_answer": "The manager might be influenced by the significant resources already spent, leading to continued investment.",
+        "mental_model": "Sunk Cost Fallacy",
+        "explanation": "The Sunk Cost Fallacy describes the irrational decision to continue an endeavor based on past investments."
+      },
+      {
+        "id": "OE18",
+        "complexity": "medium",
+        "question": "A consumer is deciding between two similar products and considers not just the price but also what benefits they lose by not choosing the other. Describe this decision process.",
+        "expected_answer": "The consumer is evaluating the opportunity cost of each product option.",
+        "mental_model": "Opportunity Cost",
+        "explanation": "Opportunity Cost considers the benefits lost by not selecting the next best alternative."
+      },
+      {
+        "id": "OE19",
+        "complexity": "medium",
+        "question": "Describe a situation in which a person might be more affected by a loss than equally by a gain.",
+        "expected_answer": "They might feel the loss more strongly, as losses tend to have a greater psychological impact than gains of the same value.",
+        "mental_model": "Prospect Theory",
+        "explanation": "Prospect Theory explains that people experience losses more intensely than gains."
+      },
+      {
+        "id": "OE20",
+        "complexity": "medium",
+        "question": "Explain how a business leader might approach a decision by comparing the potential benefits and downsides of two different strategies.",
+        "expected_answer": "The leader would weigh the possible gains against the possible losses for each strategy.",
+        "mental_model": "Prospect Theory",
+        "explanation": "Prospect Theory involves evaluating options based on both potential gains and losses."
+      },
+      {
+        "id": "OE21",
+        "complexity": "hard",
+        "question": "A company’s CEO considers not only the immediate financial returns of a merger but also its long-term impact on innovation and market dynamics. Describe how this decision-making process might work.",
+        "expected_answer": "The CEO is using a forward-thinking approach that accounts for long-term ripple effects beyond immediate profits.",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "Second-Order Thinking requires evaluating both immediate outcomes and long-term consequences."
+      },
+      {
+        "id": "OE22",
+        "complexity": "hard",
+        "question": "Explain how an executive might use a comparison of a project’s historical investments to decide whether to continue or cancel the project.",
+        "expected_answer": "By recognizing that past investments should not dictate future decisions, the executive evaluates the project based on future prospects rather than sunk costs.",
+        "mental_model": "Sunk Cost Fallacy",
+        "explanation": "Avoiding the Sunk Cost Fallacy means not letting past investments irrationally influence current decisions."
+      },
+      {
+        "id": "OE23",
+        "complexity": "hard",
+        "question": "Describe a scenario where an investor might set a high initial price for a product to influence later price comparisons.",
+        "expected_answer": "The investor might use a high initial price as an anchor, making subsequent prices appear more attractive in comparison.",
+        "mental_model": "Anchoring Bias",
+        "explanation": "Anchoring Bias causes the first piece of information (the high price) to serve as a reference point."
+      },
+      {
+        "id": "OE24",
+        "complexity": "hard",
+        "question": "Explain how a marketing manager could analyze the effectiveness of a campaign by looking at not only immediate sales but also long-term brand impact.",
+        "expected_answer": "The manager would assess both the short-term sales boost and the longer-term changes in brand perception and customer loyalty.",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "Second-Order Thinking involves evaluating both immediate and extended effects of a decision."
+      },
+      {
+        "id": "OE25",
+        "complexity": "hard",
+        "question": "Describe how an individual might critically assess new information that contradicts their long-held beliefs.",
+        "expected_answer": "They might struggle to accept it and could disregard the new data, showing a tendency to focus only on information that confirms their existing views.",
+        "mental_model": "Confirmation Bias",
+        "explanation": "Confirmation Bias leads people to favor information that supports their preexisting beliefs."
+      },
+      {
+        "id": "OE26",
+        "complexity": "easy",
+        "question": "Explain a simple, common reason why a bus might experience a short delay during rush hour.",
+        "expected_answer": "It is likely due to normal traffic congestion.",
+        "mental_model": "Occam's Razor",
+        "explanation": "Occam's Razor points to the simplest, most common explanation: traffic congestion."
+      },
+      {
+        "id": "OE27",
+        "complexity": "easy",
+        "question": "Describe why a local bakery might offer a ‘buy one, get one free’ deal on a quiet day.",
+        "expected_answer": "To attract more customers and boost sales during a slow period.",
+        "mental_model": "Cost-Benefit Analysis",
+        "explanation": "Cost-Benefit Analysis shows that offering promotions during off-peak times is a cost-effective strategy."
+      },
+      {
+        "id": "OE28",
+        "complexity": "easy",
+        "question": "In simple terms, explain why people might choose a familiar brand over a new one when shopping.",
+        "expected_answer": "They trust the familiar brand because it has a proven track record.",
+        "mental_model": "Availability Heuristic",
+        "explanation": "Familiarity makes certain brands more readily available in memory, influencing decision-making."
+      },
+      {
+        "id": "OE29",
+        "complexity": "easy",
+        "question": "Explain why a person might decide to take a shorter route home even if it appears less scenic.",
+        "expected_answer": "They want to save time and avoid potential delays.",
+        "mental_model": "Occam's Razor",
+        "explanation": "The simplest explanation is to choose the quickest and most direct route."
+      },
+      {
+        "id": "OE30",
+        "complexity": "medium",
+        "question": "Describe how a consumer might evaluate a service when they notice a significant price difference between similar options.",
+        "expected_answer": "They would likely compare the features and quality, using the higher price as a benchmark to judge the value of the lower-priced option.",
+        "mental_model": "Anchoring Bias",
+        "explanation": "Anchoring Bias makes the higher price serve as a reference, affecting perceived value."
+      },
+      {
+        "id": "OE31",
+        "complexity": "medium",
+        "question": "Explain why a team leader might rely on a particular strategy even when some team members suggest alternative methods.",
+        "expected_answer": "The leader may favor the strategy that confirms his previous success, ignoring alternative viewpoints.",
+        "mental_model": "Confirmation Bias",
+        "explanation": "Confirmation Bias leads to emphasizing information that supports existing decisions."
+      },
+      {
+        "id": "OE32",
+        "complexity": "medium",
+        "question": "Describe a situation where someone might prioritize stability over potential high rewards in their investment choices.",
+        "expected_answer": "They choose safer, lower-yield options to avoid the risk of significant losses.",
+        "mental_model": "Risk Aversion",
+        "explanation": "Risk Aversion explains a preference for secure investments despite lower potential returns."
+      },
+      {
+        "id": "OE33",
+        "complexity": "medium",
+        "question": "Explain how a student might analyze the benefits and drawbacks of two different study techniques.",
+        "expected_answer": "By considering how much improvement each technique brings versus the effort required, the student can decide which method is more efficient.",
+        "mental_model": "Cost-Benefit Analysis",
+        "explanation": "Cost-Benefit Analysis involves weighing the benefits relative to the costs or efforts required."
+      },
+      {
+        "id": "OE34",
+        "complexity": "medium",
+        "question": "Describe how a manager might evaluate the effectiveness of a new operational strategy by considering what could be lost if the strategy fails.",
+        "expected_answer": "The manager would assess the opportunity cost by comparing the potential benefits of the new strategy against the losses incurred from not choosing an alternative.",
+        "mental_model": "Opportunity Cost",
+        "explanation": "Opportunity Cost involves evaluating what is sacrificed when one option is chosen over another."
+      },
+      {
+        "id": "OE35",
+        "complexity": "medium",
+        "question": "Explain why an employee might stick to a familiar workflow even if new software could potentially improve efficiency.",
+        "expected_answer": "They may continue with the familiar process due to a reluctance to change and uncertainty about the new system's benefits.",
+        "mental_model": "Status Quo Bias",
+        "explanation": "Status Quo Bias (a form of risk aversion/confirmation bias) leads individuals to prefer familiar methods over untested alternatives."
+      },
+      {
+        "id": "OE36",
+        "complexity": "hard",
+        "question": "Describe how a strategic planner might forecast long-term outcomes when considering a complex merger.",
+        "expected_answer": "They would analyze both immediate financial impacts and long-term changes in market dynamics and innovation potential.",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "Second-Order Thinking involves looking beyond immediate results to forecast long-term consequences."
+      },
+      {
+        "id": "OE37",
+        "complexity": "hard",
+        "question": "Explain how a business executive might critically assess a project by considering what could go wrong if an alternative strategy were implemented.",
+        "expected_answer": "By evaluating the potential risks and missed opportunities of the alternative, the executive gains insight into the best path forward.",
+        "mental_model": "Inversion",
+        "explanation": "Inversion involves considering the worst-case scenario or the opposite approach to reveal potential flaws."
+      },
+      {
+        "id": "OE38",
+        "complexity": "hard",
+        "question": "Describe a scenario where a decision-maker might overestimate the likelihood of an event after encountering vivid news reports about it.",
+        "expected_answer": "They might assume the event is common due to the memorability of recent news, even if it is statistically rare.",
+        "mental_model": "Availability Heuristic",
+        "explanation": "The Availability Heuristic leads to overestimating the frequency of events that are memorable or recently reported."
+      },
+      {
+        "id": "OE39",
+        "complexity": "hard",
+        "question": "Explain how a company might continue pursuing a declining product line, even when market data suggest it's unprofitable.",
+        "expected_answer": "The company may be influenced by previous investments and find it hard to cut losses, despite current data.",
+        "mental_model": "Sunk Cost Fallacy",
+        "explanation": "The Sunk Cost Fallacy causes decision-makers to continue an endeavor based on past investments rather than current prospects."
+      },
+      {
+        "id": "OE40",
+        "complexity": "hard",
+        "question": "Describe how an investor might approach evaluating a high-risk investment by considering both its potential gains and the potential losses.",
+        "expected_answer": "The investor would perform a balanced assessment, weighing the probability and impact of gains against losses.",
+        "mental_model": "Prospect Theory",
+        "explanation": "Prospect Theory explains how people evaluate risky options by balancing potential gains against losses."
+      },
+      {
+        "id": "OE41",
+        "complexity": "hard",
+        "question": "Explain how a research team might prioritize which experiments to run when they know a small fraction of tests yield most breakthroughs.",
+        "expected_answer": "They would focus on the key experiments that historically produced significant results, following the 80/20 rule.",
+        "mental_model": "Pareto Principle",
+        "explanation": "The Pareto Principle suggests that a small percentage of causes are responsible for the majority of effects."
+      },
+      {
+        "id": "OE42",
+        "complexity": "hard",
+        "question": "Describe a situation in which a policy maker might analyze both the immediate and subsequent consequences of a new regulation.",
+        "expected_answer": "The policymaker would consider not only the direct impacts but also the secondary effects on related sectors over time.",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "Second-Order Thinking involves looking at both short-term and long-term effects of decisions."
+      },
+      {
+        "id": "OE43",
+        "complexity": "hard",
+        "question": "Explain how a startup founder might evaluate the potential of a new product idea when prior investments heavily influence decision-making.",
+        "expected_answer": "They might irrationally stick with the idea due to previous investments, even if current data suggests low potential.",
+        "mental_model": "Sunk Cost Fallacy",
+        "explanation": "The Sunk Cost Fallacy causes individuals to let past investments sway current decisions, even when not justified by future prospects."
+      },
+      {
+        "id": "OE44",
+        "complexity": "hard",
+        "question": "Describe how a team leader might analyze a situation by considering what the outcome would be if they made no changes at all.",
+        "expected_answer": "By contemplating the consequences of inaction, the leader can better understand the potential benefits and drawbacks of any change.",
+        "mental_model": "Inversion",
+        "explanation": "Inversion is used to compare the status quo with alternative strategies by considering the outcome of doing nothing."
+      },
+      {
+        "id": "OE45",
+        "complexity": "hard",
+        "question": "Explain how a financial analyst might evaluate a new market opportunity by considering both its potential returns and the risks associated with entering that market.",
+        "expected_answer": "The analyst would weigh the high potential returns against possible risks, ultimately choosing the option with the best risk-adjusted return.",
+        "mental_model": "Cost-Benefit Analysis",
+        "explanation": "Cost-Benefit Analysis helps decision-makers balance benefits against risks and costs."
+      },
+      {
+        "id": "OE46",
+        "complexity": "hard",
+        "question": "Describe how a government official might justify continuing a public project by considering the broader impacts beyond immediate costs.",
+        "expected_answer": "The official might argue that long-term benefits such as improved infrastructure and economic growth justify the ongoing expense.",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "Second-Order Thinking involves evaluating decisions based on long-term impacts rather than only immediate costs."
+      },
+      {
+        "id": "OE47",
+        "complexity": "hard",
+        "question": "Explain how a company might evaluate the decision to invest in new technology by comparing the missed opportunities of not adopting it.",
+        "expected_answer": "They would assess the potential benefits of the new technology against what they stand to lose by not upgrading.",
+        "mental_model": "Opportunity Cost",
+        "explanation": "Opportunity Cost is the value of the best alternative forgone, guiding decisions when comparing investment options."
+      },
+      {
+        "id": "OE48",
+        "complexity": "hard",
+        "question": "Describe how an entrepreneur might analyze a decision by considering what could happen if they made the opposite choice from their initial inclination.",
+        "expected_answer": "The entrepreneur would explore the negative consequences of the opposite decision to better understand the potential risks and benefits of the chosen path.",
+        "mental_model": "Inversion",
+        "explanation": "Inversion is used to test the validity of a decision by considering the outcomes of the reverse action."
+      },
+      {
+        "id": "OE49",
+        "complexity": "hard",
+        "question": "Explain how a policy analyst might assess a controversial regulation by evaluating both its immediate effects and its ripple effects on related industries.",
+        "expected_answer": "The analyst would consider the direct benefits and costs as well as the secondary impacts on interconnected sectors over time.",
+        "mental_model": "Second-Order Thinking",
+        "explanation": "Second-Order Thinking looks at both direct and indirect consequences to provide a comprehensive evaluation."
+      },
+      {
+        "id": "OE50",
+        "complexity": "hard",
+        "question": "Describe how a marketing strategist might decide between two campaign approaches by considering not only the expected boost in sales but also the potential long-term impact on brand image.",
+        "expected_answer": "The strategist would compare the short-term sales increase with possible long-term effects on brand reputation, choosing the option with the best overall impact.",
+        "mental_model": "Prospect Theory",
+        "explanation": "Prospect Theory guides decision-making by weighing both potential gains and losses, including long-term impacts."
+      }
+    ]
+  }
+  
